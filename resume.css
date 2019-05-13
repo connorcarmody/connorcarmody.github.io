@@ -27,7 +27,7 @@ h2{
         font-size: 100;
         font-weight: bold;
         font-style: italic;
-        border-bottom: 1px solid #FFF;
+      
 }
 
 #pic {
@@ -39,9 +39,8 @@ h2{
 #info {
         font-size: 14;
         font-style: italic;
-        margin: 20px;
-        padding: 20px;
         line-height: 0.1;
+        border-bottom: 1px solid #FFF;
 }
        
            
