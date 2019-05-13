@@ -38,8 +38,7 @@ h1{
 }
 
 #pic {
-        width: 200;
-        height: 200;
+        float: right;
       
 }
        
