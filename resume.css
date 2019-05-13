@@ -14,7 +14,7 @@
     }
   
 #pictureframe{
-        witdth: 800px;
+        witdth: 200px;
         margin: 40px auto 60px;
 }
 
@@ -38,8 +38,8 @@ h1{
 }
 
 #pic {
-        width: 800;
-        height: 800;
+        width: 200;
+        height: 200;
       
 }
        
