@@ -25,9 +25,14 @@ body {
 }
 
 h1{
-  font-size: 20;     
+  font-size: 200;     
   color: #FFFFFF;
   }
+
+h2{
+        font-size: 40;
+        color: #FFFFFF;        
+}
 
 #name {
         margin: 20px;
