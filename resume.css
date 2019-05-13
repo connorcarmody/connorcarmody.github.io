@@ -34,11 +34,13 @@ h1{
         font-size: 100;
         font-weight: bold;
         font-style: italic;
-        border-bottom: 1px solid #FFF
+        border-bottom: 1px solid #FFF;
 }
 
 #pic {
-        size: 800x800
+        width: 800;
+        height: 800;
+      
 }
        
            
