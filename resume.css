@@ -6,7 +6,7 @@
 }
 
 body { 
-       font: 20px Arial, Sans-Serif;
+       font: Arial, Sans-Serif;
        background: url(FullSizeRender.jpg);
        color: #FFFFFF
 }
@@ -24,7 +24,7 @@ h2{
 #name {
         margin: 20px;
         padding: 20px;
-        font-size=5;
+        font-size: 200;
         font-weight: bold;
         font-style: italic;
       
