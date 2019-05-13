@@ -9,7 +9,7 @@
         background-color: #000032;
         
         text-align: left;
-        text-color: #FFFFFF;
+        color: #FFFFFF;
         
     }
   
@@ -28,4 +28,13 @@ h1{
   color: #FFFFFF;
   }
 
+#name {
+        margin: 20px;
+        padding: 20px;
+        font-size: 50;
+        font-weight: bold;
+        font-style: italic;
+        border-bottom: 1px solid #FFFFFF
+}
+           
 
