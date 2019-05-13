@@ -13,13 +13,19 @@
         
     }
   
-#pictureframe
+#pictureframe{
+        witdth: 800px;
+        margin: 40px;
+}
 
+body{ 
+       font: 20px Helvetica, Sans-Serif;
+       background: url(FullSizeRender.jpg);
+       text-color: #FFFFFF
+}
 
 h1{
-  text-color: WHITE;
+  text-color: #FFFFFF;
   }
 
-body{  
-      text-color: #FFFFFF
-}
+
