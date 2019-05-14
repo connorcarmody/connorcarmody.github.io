@@ -36,10 +36,10 @@ h3{
 
 #name {
         margin: 20px;
-        padding: 20px;
         font-size: 200;
         font-weight: bold;
         font-style: italic;
+        line-height: 0.1
       
 }
 
@@ -58,7 +58,7 @@ h3{
         font-style: italic;
         line-height: 0.1;
         border-bottom: 1px solid #FFF;
-        padding: 20px;
+        margin: 20px;
 
 }
        
