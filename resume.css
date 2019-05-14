@@ -62,5 +62,11 @@ h3{
 
 }
        
+#aboutme {
+          font-size: 24;
+          font-style: italic;
+          line-height: 0.2;
+          border-bottom: 1px solid #FFF;
+          margin-left: 20px;
            
-
+}
