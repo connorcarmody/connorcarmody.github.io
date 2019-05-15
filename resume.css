@@ -61,6 +61,18 @@ h3{
         margin: 20px;
 
 }
+
+
+#info2 {
+        font-size: 14;
+        font-style: italic;
+        line-height: 1;
+        border-bottom: 1px solid #FFF;
+        margin: 20px;
+
+}
+
+
        
 #aboutme {
           font-size: 24;
